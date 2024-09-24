@@ -1,0 +1,14 @@
+body{
+    background-color:#00FFFF;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+ #container{
+    display: flex;
+
+ }
+
+ .cartao{
+    margin: 1rem 1rem; 
+    background-color: rgba(201, 192, 192, 0.904);
+ }
